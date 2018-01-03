@@ -1,0 +1,16 @@
+{
+  "name": "jest-log-fail-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --no-cache --maxWorkers=2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.0.4",
+    "source-map-support": "^0.5.0"
+  }
+}
